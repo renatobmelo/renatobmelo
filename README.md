@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Renato-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Renato-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/3F9sJfB/Novo-Projeto-14.png"> 
+  <img align="right" alt="Renato-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/Zc41RSM/Novo-Projeto-15.png"> 
 </div>
