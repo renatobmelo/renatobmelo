@@ -23,3 +23,11 @@ Here are some ideas to get you started:
     <img height = "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatobmelo&theme=dracula&layout=compact" />
   </a>
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Renato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Renato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Renato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Renato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Renato-pic" height="150" style="border-radius:50px;" 
+</div>
